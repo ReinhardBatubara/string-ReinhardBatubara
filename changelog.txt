@@ -1,0 +1,10 @@
+telah menyelesaikan permasalahn
+percobaan kedua
+percobaan ketiga
+mengubah logic pada loopingan for
+memperbaiki kembali loopingan for
+memperbaiki branching "#"
+memperbaiki loopingan.
+mengubah if else menjadi 2 if
+menambah -1 pada input len
+merubah inputan reminder
